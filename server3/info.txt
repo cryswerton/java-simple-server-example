@@ -1,0 +1,1 @@
+A two-way communication between client and server

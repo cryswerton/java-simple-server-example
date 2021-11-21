@@ -1,0 +1,1 @@
+The client send the message "Hello" to the server.
